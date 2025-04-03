@@ -10,6 +10,9 @@
 
 EduFinance AI is an innovative solution addressing financial barriers in education by providing personalized scholarship and loan recommendations using AI. The platform helps students from lower-income families discover funding opportunities tailored to their skills, field of study, and location.
 
+## 🌐 Live Demo  
+🎓 [Try EduFinance AI Here!](https://edufinance-ai.streamlit.app/) 
+
 ## 📌 Problem Statement
 
 Many students from lower-income families face financial challenges in paying school/college fees, especially post-COVID. These barriers lead to:
